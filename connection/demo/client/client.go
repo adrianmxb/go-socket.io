@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	engineio "github.com/googollee/go-engine.io"
+	engineio "github.com/googollee/go-socket.io/connection"
 	"github.com/googollee/go-engine.io/transport"
 	"github.com/googollee/go-engine.io/transport/polling"
 	"github.com/googollee/go-engine.io/transport/websocket"
