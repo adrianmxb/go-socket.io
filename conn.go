@@ -6,10 +6,8 @@ import (
 	"net/url"
 	"reflect"
 	"sync"
-
-	engineio "github.com/googollee/go-socket.io/connection"
-
-	"github.com/googollee/go-socket.io/parser"
+	engineio "github.com/adrianmxb/go-socket.io/connection"
+	"github.com/adrianmxb/go-socket.io/parser"
 )
 
 // Conn is a connection in go-socket.io

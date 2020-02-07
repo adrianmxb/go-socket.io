@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	engineio "github.com/googollee/go-socket.io/connection"
+	engineio "github.com/adrianmxb/go-socket.io/connection"
 )
 
 func main() {

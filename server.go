@@ -3,7 +3,7 @@ package socketio
 import (
 	"net/http"
 
-	engineio "github.com/googollee/go-socket.io/connection"
+	engineio "github.com/adrianmxb/go-socket.io/connection"
 )
 
 // Server is a go-socket.io server.

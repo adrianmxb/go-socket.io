@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/googollee/go-engine.io/base"
+	"github.com/adrianmxb/go-socket.io/connection/base"
 )
 
 // HTTPError is error which has http response code

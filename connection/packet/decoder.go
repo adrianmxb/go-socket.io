@@ -3,7 +3,7 @@ package packet
 import (
 	"io"
 
-	"github.com/googollee/go-engine.io/base"
+	"github.com/adrianmxb/go-socket.io/connection/base"
 )
 
 type decoder struct {

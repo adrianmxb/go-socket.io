@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	socketio "github.com/googollee/go-socket.io"
+	socketio "github.com/adrianmxb/go-socket.io"
 	"github.com/kataras/iris/v12"
 )
 
